@@ -1,15 +1,15 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/<username>/<repo-name>/master/<path-to-image>" alt="Abdullah Aziz Sharfuddin (Shakkhor)">
+  <img src="https://github.com/shakkhor/shakkhor/blob/main/images/github-header-image%20(2).png" alt="Abdullah Aziz Sharfuddin (Shakkhor)">
   <br>
-  Hi, I'm Abdullah Aziz Sharfuddin (Shakkhor) 👋
+  Abdullah Aziz Sharfuddin 👋
 </h1>
 
 <p align="center">
-  <a href="https://<your-website>.com"><img alt="Website" src="https://img.shields.io/badge/Website-<your-website>.com-blue?style=flat-square&logo=google-chrome"></a>
-  <a href="<your-twitter-link>"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-<your-twitter-handle>-blue?style=flat-square&logo=twitter"></a>
-  <a href="<your-linkedin-link>"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-<your-linkedin-handle>-blue?style=flat-square&logo=linkedin"></a>
-  <a href="<your-email-link>"><img alt="Email" src="https://img.shields.io/badge/Email-<your-email>-blue?style=flat-square&logo=gmail"></a>
-</p>
+<span align="center">
+  <a href="https://scholar.google.com/citations?user=s3o3xDwAAAAJ&hl=en&oi=ao" ><img alt="Google Scholar" src="https://github.com/shakkhor/shakkhor/blob/main/images/icons8-google-scholar-48.png"></a>
+    <a href="<your-linkedin-link>"><img alt="LinkedIn" src="https://github.com/shakkhor/shakkhor/blob/main/images/icons8-linkedin-48.png"></a>
+  <a href="<your-linkedin-link>"><img alt="Spotify" src="https://github.com/shakkhor/shakkhor/blob/main/images/icons8-spotify-48.png"></a>
+  </span>
 
 <p align="center">
   [Add a brief introduction about yourself. You might include your current job or field of study, your areas of expertise or interests, or a personal bio.]
